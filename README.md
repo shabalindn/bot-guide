@@ -21,7 +21,8 @@
 3. [Настройки](#settings)
     - [Уведомления](#settings-notification)
     - [Замеры](#settings-measure)
-4. [О боте](#info)
+4  [Экспорт данных](#export)
+5. [О боте](#info)
 
 
 
@@ -205,6 +206,16 @@
 
 > Выбранные замеры в квадратных скобочках
 
+
+### Экспорт данных <a name="export"></a>
+
+<img src="./img/export.jpeg" alt="export" width="300"/>
+
+Можно экспортировать замеры, рекорды за все время или за год
+
+<img src="./img/export-measure-2024.jpeg" alt="export-measure-2024" width="300"/>
+
+В ответ вы получите файл с расширением  `csv`
 
 ## О боте <a name="info"></a>
 <img src="./img/info.jpeg" alt="info" width="300"/>
