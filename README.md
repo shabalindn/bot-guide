@@ -21,7 +21,7 @@
 3. [Настройки](#settings)
     - [Уведомления](#settings-notification)
     - [Замеры](#settings-measure)
-4  [Экспорт данных](#export)
+4.  [Экспорт данных](#export)
 5. [О боте](#info)
 
 
