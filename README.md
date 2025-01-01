@@ -211,6 +211,7 @@
 
 <img src="./img/export.jpeg" alt="export" width="300"/>
 
+Команда *Экспорт данных* в меню или введите `/export`
 Можно экспортировать замеры, рекорды за все время или за год
 
 <img src="./img/export-measure-2024.jpeg" alt="export-measure-2024" width="300"/>
